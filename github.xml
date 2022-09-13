@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="LionWord" id="09a3f7f3-59ba-4a08-935b-1025991b95cd">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
