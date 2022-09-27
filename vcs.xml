@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/LionWord/m1-t25-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/praktikum-java/java-core-bighw-kvserver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
